@@ -5,17 +5,14 @@
  
 - 🔭 I’m currently working on **Some OpenSource Projects**
 
-- 🌱 I’m currently learning **Frond-End Developer Track**
+- 🌱 I’m currently learning **Advanced C#**
 
-## 🤝Social Media
+### 🤝Connect with me
 <a href="https://www.linkedin.com/in/hsayedhamed/"><img alt="LinkedIn" src="https://img.shields.io/badge/-hsayedhamed-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 <a href="https://facebook.com/hsayed21"><img src="https://img.shields.io/badge/-@hsayed21-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/hsayedhamed"><img alt="Website" src="https://img.shields.io/badge/-@hsayedhamed-gray?style=flat-square&logo=twitter"></a>
 <a href="mailto:hsayedhamed21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-@hsayedhamed21-blue?style=flat-square&logo=gmail"></a>
 <a href="https://t.me/hsayed21"><img alt="Telegram" src="https://img.shields.io/badge/-@hsayed21-blue?style=flat-square&logo=telegram"></a>
-  
-
-## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
 ![](https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white)
@@ -32,7 +29,6 @@
 ![](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
 ![](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
 
-
 <!-- ### 🧰 Frameworks and libraries
 ![](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)
 ![](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white) -->
@@ -44,18 +40,16 @@
 ![](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
 
 ### 💻 Software and tools
-![](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)
+![](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)
 
-
-📕 Latest Blog Posts
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Customize My Windows](https://hsayed21.github.io/blogs/2021-10/customize-my-windows)
 - [Integrate Obsidian With Github](https://hsayed21.github.io/blogs/2021-08/integrate-obsidian-with-github)
@@ -63,7 +57,6 @@
 - [Welcome to Jekyll!](https://hsayed21.github.io/blogs/2021-07/welcome-to-jekyll)
 <!-- BLOG-POST-LIST:END -->
 
- 
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
