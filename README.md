@@ -64,17 +64,16 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="hsayed21's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hsayed21&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180em"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="hsayed21's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsayed21&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="180em"/></a>
+    <a href="#"><img alt="hsayed21's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hsayed21&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180em"/></a>
+  <a href="#"><img alt="hsayed21's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsayed21&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="180em"/></a>
  </p>
 </details>
-
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-
+ 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#119](https://github.com/chhoumann/quickadd/issues/119) in [chhoumann/quickadd](https://github.com/chhoumann/quickadd)
 2. 🗣 Commented on [#119](https://github.com/chhoumann/quickadd/issues/119) in [chhoumann/quickadd](https://github.com/chhoumann/quickadd)
@@ -85,18 +84,9 @@
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="hsayed21's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hsayed21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="hsayed21's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hsayed21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-𝗚𝗜𝗧𝗛𝗨𝗕 𝗣𝗔𝗚𝗘 𝗩𝗜𝗦𝗜𝗧𝗢𝗥𝗦
-
+### 𝗚𝗜𝗧𝗛𝗨𝗕 𝗣𝗔𝗚𝗘 𝗩𝗜𝗦𝗜𝗧𝗢𝗥𝗦
 <div align="center">
-<p></p>
-
 <img src="https://profile-counter.glitch.me/hsayed21/count.svg" alt="hit counter" align="center">
-</div>
-
-
-<!-- <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up."> -->
-</p>
-</details> 
 </div>
