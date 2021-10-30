@@ -57,10 +57,10 @@
 
 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Customize My Windows](/blogs/2021-10/customize-my-windows)
-- [Integrate Obsidian With Github](/blogs/2021-08/integrate-obsidian-with-github)
-- [Tricks Used In Meeting](/blogs/2021-07/tricks-used-in-meeting)
-- [Welcome to Jekyll!](/blogs/2021-07/welcome-to-jekyll)
+- [Customize My Windows](https://hsayed21.github.io/blogs/2021-10/customize-my-windows)
+- [Integrate Obsidian With Github](https://hsayed21.github.io/blogs/2021-08/integrate-obsidian-with-github)
+- [Tricks Used In Meeting](https://hsayed21.github.io/blogs/2021-07/tricks-used-in-meeting)
+- [Welcome to Jekyll!](https://hsayed21.github.io/blogs/2021-07/welcome-to-jekyll)
 <!-- BLOG-POST-LIST:END -->
 
  
