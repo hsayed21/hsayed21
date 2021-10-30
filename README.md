@@ -51,7 +51,8 @@
 ![](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
  
 ## 📊 Github stats
