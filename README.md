@@ -19,20 +19,19 @@
 
 ### 👨‍💻 Programming languages
 ![](https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white)
-![](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
 ![](https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white)
 ![](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white)
 ![](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Code-jquery-informational?style=flat&logo=jquery&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/-jquery-333333?style=flat&logo=jquery&logoColor=563D7C)
 ![](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
 ![](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
-![](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
+
 
 <!-- ### 🧰 Frameworks and libraries
 ![](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)
@@ -45,20 +44,14 @@
 ![](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
 
 ### 💻 Software and tools
+![](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)
-![](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white)
-![](https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
-![](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)
-![](https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-
-<!-- ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=6aa6f8)
- -->
+![](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
  
 ## 📊 Github stats
@@ -80,8 +73,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
- 
-
+ <!-- 1. 🗣 Commented on [#11](https://github.com/nextcord/nextcord-ext-ipc/issues/11) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+2. 🗣 Commented on [#11](https://github.com/nextcord/nextcord-ext-ipc/issues/11) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+3. 🎉 Merged PR [#220](https://github.com/hsayed21/custom-icon-badges/pull/220) in [hsayed21/custom-icon-badges](https://github.com/hsayed21/custom-icon-badges)
+4. 🎉 Merged PR [#9](https://github.com/nextcord/nextcord-ext-ipc/pull/9) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+5. 💪 Opened PR [#9](https://github.com/nextcord/nextcord-ext-ipc/pull/9) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc) -->
 <!--END_SECTION:activity-->
 </details>
 
@@ -96,11 +92,6 @@
 <img src="https://profile-counter.glitch.me/hsayed21/count.svg" alt="hit counter" align="center">
 </div>
 
-<!-- 1. 🗣 Commented on [#11](https://github.com/nextcord/nextcord-ext-ipc/issues/11) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-2. 🗣 Commented on [#11](https://github.com/nextcord/nextcord-ext-ipc/issues/11) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-3. 🎉 Merged PR [#220](https://github.com/hsayed21/custom-icon-badges/pull/220) in [hsayed21/custom-icon-badges](https://github.com/hsayed21/custom-icon-badges)
-4. 🎉 Merged PR [#9](https://github.com/nextcord/nextcord-ext-ipc/pull/9) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-5. 💪 Opened PR [#9](https://github.com/nextcord/nextcord-ext-ipc/pull/9) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc) -->
 
 <!-- <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up."> -->
 </p>
