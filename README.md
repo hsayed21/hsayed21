@@ -1,8 +1,9 @@
+<div align="center">
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<h3>Hi 👋, I'm Hamada Sayed</h3>
+<h2>Front-End Developer | Network Engineer</h2>
+</div> 
 
-
-<h3 align="center">Hi 👋, I'm Hamada Sayed</h3>
-<h2 align="center">Front-End Developer | Network Engineer</h2>
- 
 - 🔭 I’m currently working on **Some OpenSource Projects**
 
 - 🌱 I’m currently learning **Advanced C#**
