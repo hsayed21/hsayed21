@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Hamada Sayed</h1>
-<h3 align="center">Front-End Developer | Network Engineer</h3>
+<h3 align="center">Hi 👋, I'm Hamada Sayed</h3>
+<h2 align="center">Front-End Developer | Network Engineer</h2>
  
 - 🔭 I’m currently working on **Some OpenSource Projects**
 
