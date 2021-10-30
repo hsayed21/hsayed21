@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
- <!-- 1. 🗣 Commented on [#11](https://github.com/nextcord/nextcord-ext-ipc/issues/11) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-2. 🗣 Commented on [#11](https://github.com/nextcord/nextcord-ext-ipc/issues/11) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-3. 🎉 Merged PR [#220](https://github.com/hsayed21/custom-icon-badges/pull/220) in [hsayed21/custom-icon-badges](https://github.com/hsayed21/custom-icon-badges)
-4. 🎉 Merged PR [#9](https://github.com/nextcord/nextcord-ext-ipc/pull/9) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-5. 💪 Opened PR [#9](https://github.com/nextcord/nextcord-ext-ipc/pull/9) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc) -->
+1. 🗣 Commented on [#119](https://github.com/chhoumann/quickadd/issues/119) in [chhoumann/quickadd](https://github.com/chhoumann/quickadd)
+2. 🗣 Commented on [#119](https://github.com/chhoumann/quickadd/issues/119) in [chhoumann/quickadd](https://github.com/chhoumann/quickadd)
+3. ❗️ Opened issue [#119](https://github.com/chhoumann/quickadd/issues/119) in [chhoumann/quickadd](https://github.com/chhoumann/quickadd)
+4. 🗣 Commented on [#111](https://github.com/chhoumann/quickadd/issues/111) in [chhoumann/quickadd](https://github.com/chhoumann/quickadd)
+5. ❗️ Opened issue [#90](https://github.com/chhoumann/quickadd/issues/90) in [chhoumann/quickadd](https://github.com/chhoumann/quickadd)
 <!--END_SECTION:activity-->
 </details>
 
