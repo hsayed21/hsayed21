@@ -55,7 +55,7 @@
 ![](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
-# Blog posts
+📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Customize My Windows](/blogs/2021-10/customize-my-windows)
 - [Integrate Obsidian With Github](/blogs/2021-08/integrate-obsidian-with-github)
