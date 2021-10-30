@@ -78,11 +78,8 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/nextcord/nextcord-ext-ipc/issues/11) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-2. 🗣 Commented on [#11](https://github.com/nextcord/nextcord-ext-ipc/issues/11) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-3. 🎉 Merged PR [#220](https://github.com/hsayed21/custom-icon-badges/pull/220) in [hsayed21/custom-icon-badges](https://github.com/hsayed21/custom-icon-badges)
-4. 🎉 Merged PR [#9](https://github.com/nextcord/nextcord-ext-ipc/pull/9) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
-5. 💪 Opened PR [#9](https://github.com/nextcord/nextcord-ext-ipc/pull/9) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+ 
+
 <!--END_SECTION:activity-->
 </details>
 
@@ -96,6 +93,12 @@
 
 <img src="https://profile-counter.glitch.me/hsayed21/count.svg" alt="hit counter" align="center">
 </div>
+
+<!-- 1. 🗣 Commented on [#11](https://github.com/nextcord/nextcord-ext-ipc/issues/11) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+2. 🗣 Commented on [#11](https://github.com/nextcord/nextcord-ext-ipc/issues/11) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+3. 🎉 Merged PR [#220](https://github.com/hsayed21/custom-icon-badges/pull/220) in [hsayed21/custom-icon-badges](https://github.com/hsayed21/custom-icon-badges)
+4. 🎉 Merged PR [#9](https://github.com/nextcord/nextcord-ext-ipc/pull/9) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc)
+5. 💪 Opened PR [#9](https://github.com/nextcord/nextcord-ext-ipc/pull/9) in [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc) -->
 
 <!-- <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up."> -->
 </p>
