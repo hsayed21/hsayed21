@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Advanced C#**
 
-### 🤝Connect with me
+
+### 📫 How to reach me
 <a href="https://www.linkedin.com/in/hsayedhamed/"><img alt="LinkedIn" src="https://img.shields.io/badge/-hsayedhamed-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 <a href="https://facebook.com/hsayed21"><img src="https://img.shields.io/badge/-@hsayed21-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/hsayedhamed"><img alt="Website" src="https://img.shields.io/badge/-@hsayedhamed-gray?style=flat-square&logo=twitter"></a>
