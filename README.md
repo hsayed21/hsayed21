@@ -53,6 +53,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jekyll: Live Reload On Windows 10](https://hsayed21.github.io/blogs/2021-11/jekyll-live-reload-on-windows-10)
 - [Customize My Windows](https://hsayed21.github.io/blogs/2021-10/customize-my-windows)
 - [Integrate Obsidian With Github](https://hsayed21.github.io/blogs/2021-08/integrate-obsidian-with-github)
 - [Tricks Used In Meeting](https://hsayed21.github.io/blogs/2021-07/tricks-used-in-meeting)
