@@ -78,11 +78,11 @@
   <br/>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/chhoumann/quickadd/issues/119) in [chhoumann/quickadd](https://github.com/chhoumann/quickadd)
-2. 🗣 Commented on [#119](https://github.com/chhoumann/quickadd/issues/119) in [chhoumann/quickadd](https://github.com/chhoumann/quickadd)
-3. ❗️ Opened issue [#119](https://github.com/chhoumann/quickadd/issues/119) in [chhoumann/quickadd](https://github.com/chhoumann/quickadd)
-4. 🗣 Commented on [#111](https://github.com/chhoumann/quickadd/issues/111) in [chhoumann/quickadd](https://github.com/chhoumann/quickadd)
-5. ❗️ Opened issue [#90](https://github.com/chhoumann/quickadd/issues/90) in [chhoumann/quickadd](https://github.com/chhoumann/quickadd)
+1. 🗣 Commented on [#8891](https://github.com/jekyll/jekyll/issues/8891) in [jekyll/jekyll](https://github.com/jekyll/jekyll)
+2. 🗣 Commented on [#8891](https://github.com/jekyll/jekyll/issues/8891) in [jekyll/jekyll](https://github.com/jekyll/jekyll)
+3. 💪 Opened PR [#8891](https://github.com/jekyll/jekyll/pull/8891) in [jekyll/jekyll](https://github.com/jekyll/jekyll)
+4. 🗣 Commented on [#119](https://github.com/chhoumann/quickadd/issues/119) in [chhoumann/quickadd](https://github.com/chhoumann/quickadd)
+5. 🗣 Commented on [#119](https://github.com/chhoumann/quickadd/issues/119) in [chhoumann/quickadd](https://github.com/chhoumann/quickadd)
 <!--END_SECTION:activity-->
 </details>
 
