@@ -78,11 +78,11 @@
   <br/>
  
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/G33kDude/Chrome.ahk/issues/29) in [G33kDude/Chrome.ahk](https://github.com/G33kDude/Chrome.ahk)
-2. 🗣 Commented on [#8891](https://github.com/jekyll/jekyll/issues/8891) in [jekyll/jekyll](https://github.com/jekyll/jekyll)
+1. 💪 Opened PR [#30](https://github.com/G33kDude/Chrome.ahk/pull/30) in [G33kDude/Chrome.ahk](https://github.com/G33kDude/Chrome.ahk)
+2. ❗️ Opened issue [#29](https://github.com/G33kDude/Chrome.ahk/issues/29) in [G33kDude/Chrome.ahk](https://github.com/G33kDude/Chrome.ahk)
 3. 🗣 Commented on [#8891](https://github.com/jekyll/jekyll/issues/8891) in [jekyll/jekyll](https://github.com/jekyll/jekyll)
-4. 💪 Opened PR [#8891](https://github.com/jekyll/jekyll/pull/8891) in [jekyll/jekyll](https://github.com/jekyll/jekyll)
-5. 🗣 Commented on [#119](https://github.com/chhoumann/quickadd/issues/119) in [chhoumann/quickadd](https://github.com/chhoumann/quickadd)
+4. 🗣 Commented on [#8891](https://github.com/jekyll/jekyll/issues/8891) in [jekyll/jekyll](https://github.com/jekyll/jekyll)
+5. 💪 Opened PR [#8891](https://github.com/jekyll/jekyll/pull/8891) in [jekyll/jekyll](https://github.com/jekyll/jekyll)
 <!--END_SECTION:activity-->
 </details>
 
