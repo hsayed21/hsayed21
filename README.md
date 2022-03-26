@@ -53,11 +53,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Track resume with GTM + Heroku + Github + SendGrid [Part2]](https://hsayed21.github.io/blogs/2021-11/track_resume_with_gtm_heroku_github_sendgrid_part2)
-- [Track resume with GTM + Heroku + Github + SendGrid [Part1]](https://hsayed21.github.io/blogs/2021-11/track_resume_with_gtm_heroku_github_sendgrid_part1)
-- [Jekyll: Live Reload On Windows 10](https://hsayed21.github.io/blogs/2021-11/jekyll-live-reload-on-windows-10)
-- [Customize My Windows](https://hsayed21.github.io/blogs/2021-10/customize-my-windows)
-- [Integrate Obsidian With Github](https://hsayed21.github.io/blogs/2021-08/integrate-obsidian-with-github)
+- [Track resume with GTM + Heroku + Github + SendGrid [Part2]](https://hsayed21.github.io/posts/2021-11-21-track_resume_with_gtm_heroku_github_sendgrid_part2/)
+- [Track resume with GTM + Heroku + Github + SendGrid [Part1]](https://hsayed21.github.io/posts/2021-11-09-track_resume_with_gtm_heroku_github_sendgrid_part1/)
+- [Jekyll: Live Reload On Windows 10](https://hsayed21.github.io/posts/2021-11-01-jekyll-live-reload-on-windows-10/)
+- [Customize My Windows](https://hsayed21.github.io/posts/2021-10-30-customize-my-windows/)
+- [Integrate Obsidian With Github](https://hsayed21.github.io/posts/2021-08-21-integrate-obsidian-with-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Github stats
