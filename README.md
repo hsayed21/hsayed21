@@ -53,11 +53,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://hsayed21.github.io/posts/test/)
 - [Track resume with GTM + Heroku + Github + SendGrid [Part2]](https://hsayed21.github.io/posts/2021-11-21-track_resume_with_gtm_heroku_github_sendgrid_part2/)
 - [Track resume with GTM + Heroku + Github + SendGrid [Part1]](https://hsayed21.github.io/posts/2021-11-09-track_resume_with_gtm_heroku_github_sendgrid_part1/)
 - [Jekyll: Live Reload On Windows 10](https://hsayed21.github.io/posts/2021-11-01-jekyll-live-reload-on-windows-10/)
 - [Integrate Obsidian With Github](https://hsayed21.github.io/posts/2021-08-21-integrate-obsidian-with-github/)
+- [Tricks Used In Meeting](https://hsayed21.github.io/posts/2021-07-27-tricks-used-in-meeting/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Github stats
