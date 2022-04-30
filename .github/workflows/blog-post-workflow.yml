@@ -2,8 +2,7 @@ name: Update readme with blog posts
 
 on:
   schedule:
-    # Once a day at 8 AM
-    - cron: 0 8 * * *
+    - cron: '0 * * * *' # Runs every hour, on the hour
 
 jobs:
   update:
