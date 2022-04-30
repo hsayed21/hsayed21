@@ -12,9 +12,9 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          comment_tag_name: "POSTS"
+          #comment_tag_name: "POSTS"
           feed-url: https://hsayed21.github.io/index.xml
           commit_message: "Update hsayed21.github.io blog posts"
-          #readme-section: posts
+          readme-section: posts
           #max: 10 # max number of items (default 5)
           #template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
