@@ -52,8 +52,8 @@
 ![](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)
 
 ### 📕 Latest Blog Posts
-<!--POSTS:START-->
-<!--POSTS:END-->
+<!--START_SECTION:posts-->
+<!--END_SECTION:posts-->
 
 ## 📊 Github stats
 
