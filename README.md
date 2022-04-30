@@ -53,6 +53,55 @@
 
 ### 📕 Latest Blog Posts
 <!--START_SECTION:feed-->
+#### [Track resume with GTM + Heroku + Github + SendGrid [Part2]](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2021-11-21-track_resume_with_gtm_heroku_github_sendgrid_part2&#x2F;) 
+*On this part will focus on how to build back-end app to work as a server with gtm.We will use rest-api with flask for work as get request to run our service when calling it.
+Step by step, you will understand what I mean.
+before we start, we need
+SendGrid:
+Create account on SendGrid
+Create Single Sender Verification
+Create SendGrid API Key
+Github:
+Create account on Github
+Create Creating a personal access token - GitHub*
+#### [Track resume with GTM + Heroku + Github + SendGrid [Part1]](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2021-11-09-track_resume_with_gtm_heroku_github_sendgrid_part1&#x2F;) 
+*At the beginning of the search for the best tool or way to track my CV,
+I found a lot of sites and tools, some of them are expensive and some are free.
+After a lot of experience, I could not find a better than DocSend.
+It features every detail you need, allows you to know when your CV was opened and whether it was downloaded or not, how long did you read in the CV, which page you focused on or spent the most time on, and many other details.
+But the site was at first almost completely free, and now it has a more professional version, and the free version is completely limited.*
+#### [Jekyll: Live Reload On Windows 10](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2021-11-01-jekyll-live-reload-on-windows-10&#x2F;) 
+*Live reload issue solved when running Jekyll on Windows 10.
+Used:
+windows 10 version 2004 (OS Build 19041.1237)
+ruby 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]
+jekyll 3.9.0*
+#### [Integrate Obsidian With Github](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2021-08-21-integrate-obsidian-with-github&#x2F;) 
+*For Windows
+Tools Used:
+Git
+after install git make file call.bat contains bash_git path and the shell_script file that we want to run it from windows using batch script
+1cmd &#x2F;c &quot;&quot;C:\Program Files\Git\bin\bash.exe&quot; --login -i -- H:\myshell.sh&quot;
+
+
+{: lang&#x3D;“batch”}*
+#### [Tricks Used In Meeting](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2021-07-27-tricks-used-in-meeting&#x2F;) 
+*Program Used:
+obs studio
+virtaul audio cable
+Pitchproof vst plugin
+ReaPlugs VST FX Suite
+voice meeter
+DroidCam*
+#### [Welcome to Jekyll!](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2021-07-21-welcome-to-jekyll&#x2F;) 
+*Building a website nowadays is not as hard or expensive as it was in the past. These days, you do not have to learn a crazy programming language to have your site up and running.
+Instead, you can go the Jamstack way. In this article, we go through how to build and deploy a Jekyll site.*
+#### [About me](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;about&#x2F;) 
+*Github: hsayed21*
+#### [](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;resume&#x2F;) 
+*Unable to access hidden content 😃*
+#### [Certs](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;certs&#x2F;) 
+*Certs: Size in bytes Name 189033 ITI_Computer_Fund.pdf 189943 ITI_Intro_Network_Sec.pdf 189852 ITI_Malware_Analysis_Fund.pdf 345855 ITI_Reverse_Code.pdf 114511 Incident_Resonse_Cybertalents.pdf 136386 autopsy.pdf*
 <!--END_SECTION:feed-->
 
 ## 📊 Github stats
