@@ -2,7 +2,7 @@ name: Update readme with blog posts
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '0 0 * * *' # Runs every hour, on the hour
   workflow_dispatch:
 
 jobs:
