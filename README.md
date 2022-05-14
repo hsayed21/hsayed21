@@ -78,8 +78,8 @@
   <br/>
  
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#649](https://github.com/qarmin/czkawka/issues/649) in [qarmin/czkawka](https://github.com/qarmin/czkawka)
-2. 🗣 Commented on [#8891](https://github.com/jekyll/jekyll/issues/8891) in [jekyll/jekyll](https://github.com/jekyll/jekyll)
+1. ❗️ Opened issue [#1](https://github.com/dwitidibyajyoti/linkedin-autoconnect/issues/1) in [dwitidibyajyoti/linkedin-autoconnect](https://github.com/dwitidibyajyoti/linkedin-autoconnect)
+2. ❗️ Opened issue [#649](https://github.com/qarmin/czkawka/issues/649) in [qarmin/czkawka](https://github.com/qarmin/czkawka)
 3. 💪 Opened PR [#30](https://github.com/G33kDude/Chrome.ahk/pull/30) in [G33kDude/Chrome.ahk](https://github.com/G33kDude/Chrome.ahk)
 4. ❗️ Opened issue [#29](https://github.com/G33kDude/Chrome.ahk/issues/29) in [G33kDude/Chrome.ahk](https://github.com/G33kDude/Chrome.ahk)
 5. 🗣 Commented on [#8891](https://github.com/jekyll/jekyll/issues/8891) in [jekyll/jekyll](https://github.com/jekyll/jekyll)
