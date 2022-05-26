@@ -1,8 +1,8 @@
 name: Update readme with blog posts
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # Runs every hour, on the hour
+  #schedule:
+   # - cron: '0 0 * * *' # Runs every hour, on the hour
   workflow_dispatch:
 
 jobs:
@@ -10,6 +10,7 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
+      - uses: stefanzweifel/git-auto-commit-action@v4.14.1
       - uses: JasonEtco/rss-to-readme@v1
         with:
           #comment_tag_name: "POSTS"
