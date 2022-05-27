@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<!-- <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
+<!-- <img style="width:600px; height:350px" src="https://i.imgur.com/ijdyxfE.gif" /> -->
+<img width="480" height="270" src="https://64.media.tumblr.com/b1785743b8742d255508773ce5bbc320/tumblr_pp1k8pBF6o1tf04pfo1_640.gif" />
 <h3>Hi 👋, I'm Hamada Sayed </h3>
 <h2>Front-End Developer | Network Engineer</h2>
 </div> 

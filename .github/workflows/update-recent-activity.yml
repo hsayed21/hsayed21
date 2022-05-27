@@ -1,4 +1,4 @@
-name: Update README
+name: Update readme with recent activity
 
 on:
   #schedule:
@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: stefanzweifel/git-auto-commit-action@v4.14.1
         with:
-         commit_message: Automated Changes
+          commit_message: Automated Changes
       - uses: jamesgeorge007/github-activity-readme@v0.3.6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
