@@ -1,3 +1,4 @@
+
 <div align="center">
 <!-- <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 <!-- <img style="width:600px; height:350px" src="https://i.imgur.com/ijdyxfE.gif" /> -->
@@ -9,7 +10,7 @@
 
 - 🔭 I’m currently working on <b style="color:#95C077"><a href="#"><img height="18" src="https://readme-text.azurewebsites.net/Some%20OpenSource%20Projects/95C077"></a></b>
 - 🌱 I’m currently learning <b style="color:#95C077"><a href="#"><img height="18" src="https://readme-text.azurewebsites.net/Advanced%20x84%20Assembly/95C077"></a></b>
-- 📝 I regularly write articles on <a style="color:#C678DD" href="https://hsayed21.github.io"><img height="18" src="https://readme-text.azurewebsites.net/hsayed21.github.io/C678DD"></a>
+- 📝 Sometimes I write articles on <a style="color:#C678DD" href="https://hsayed21.github.io"><img height="18" src="https://readme-text.azurewebsites.net/hsayed21.github.io/C678DD"></a>
 
 <h3 style="color:#DBAA79; font-weight:bold">📫 <a href="#"><img height="24" src="https://readme-text.azurewebsites.net/How%20to%20reach%20me/DBAA79"></a></h3>
 <a href="https://www.linkedin.com/in/hsayedhamed/"><img alt="LinkedIn" src="https://img.shields.io/badge/-hsayedhamed-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
