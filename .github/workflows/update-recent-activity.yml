@@ -1,9 +1,9 @@
 name: Update readme with recent activity
 
 on:
-  #schedule:
+  schedule:
     # Runs every day
-    #- cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
