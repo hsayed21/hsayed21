@@ -79,8 +79,8 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8891](https://github.com/jekyll/jekyll/pull/8891) in [jekyll/jekyll](https://github.com/jekyll/jekyll)
-2. ❗️ Opened issue [#649](https://github.com/qarmin/czkawka/issues/649) in [qarmin/czkawka](https://github.com/qarmin/czkawka)
+1. ❗️ Opened issue [#14](https://github.com/stargrey/obsidian-better-codeblock/issues/14) in [stargrey/obsidian-better-codeblock](https://github.com/stargrey/obsidian-better-codeblock)
+2. ❌ Closed PR [#8891](https://github.com/jekyll/jekyll/pull/8891) in [jekyll/jekyll](https://github.com/jekyll/jekyll)
 3. 💪 Opened PR [#30](https://github.com/G33kDude/Chrome.ahk/pull/30) in [G33kDude/Chrome.ahk](https://github.com/G33kDude/Chrome.ahk)
 4. ❗️ Opened issue [#29](https://github.com/G33kDude/Chrome.ahk/issues/29) in [G33kDude/Chrome.ahk](https://github.com/G33kDude/Chrome.ahk)
 5. 🗣 Commented on [#8891](https://github.com/jekyll/jekyll/issues/8891) in [jekyll/jekyll](https://github.com/jekyll/jekyll)
