@@ -79,11 +79,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1597](https://github.com/blinksh/blink/issues/1597) in [blinksh/blink](https://github.com/blinksh/blink)
-2. ❗️ Opened issue [#14](https://github.com/stargrey/obsidian-better-codeblock/issues/14) in [stargrey/obsidian-better-codeblock](https://github.com/stargrey/obsidian-better-codeblock)
-3. ❌ Closed PR [#8891](https://github.com/jekyll/jekyll/pull/8891) in [jekyll/jekyll](https://github.com/jekyll/jekyll)
-4. ❗️ Opened issue [#29](https://github.com/G33kDude/Chrome.ahk/issues/29) in [G33kDude/Chrome.ahk](https://github.com/G33kDude/Chrome.ahk)
-5. 🗣 Commented on [#8891](https://github.com/jekyll/jekyll/issues/8891) in [jekyll/jekyll](https://github.com/jekyll/jekyll)
+1. 🗣 Commented on [#1597](https://github.com/blinksh/blink/issues/1597) in [blinksh/blink](https://github.com/blinksh/blink)
+2. 🗣 Commented on [#1597](https://github.com/blinksh/blink/issues/1597) in [blinksh/blink](https://github.com/blinksh/blink)
+3. 🗣 Commented on [#1597](https://github.com/blinksh/blink/issues/1597) in [blinksh/blink](https://github.com/blinksh/blink)
+4. 🗣 Commented on [#1597](https://github.com/blinksh/blink/issues/1597) in [blinksh/blink](https://github.com/blinksh/blink)
+5. 🗣 Commented on [#1597](https://github.com/blinksh/blink/issues/1597) in [blinksh/blink](https://github.com/blinksh/blink)
 <!--END_SECTION:activity-->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
