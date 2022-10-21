@@ -79,7 +79,7 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1597](https://github.com/blinksh/blink/issues/1597) in [blinksh/blink](https://github.com/blinksh/blink)
+1. ❗️ Opened issue [#2876](https://github.com/zotero/zotero/issues/2876) in [zotero/zotero](https://github.com/zotero/zotero)
 2. 🗣 Commented on [#1597](https://github.com/blinksh/blink/issues/1597) in [blinksh/blink](https://github.com/blinksh/blink)
 3. 🗣 Commented on [#1597](https://github.com/blinksh/blink/issues/1597) in [blinksh/blink](https://github.com/blinksh/blink)
 4. 🗣 Commented on [#1597](https://github.com/blinksh/blink/issues/1597) in [blinksh/blink](https://github.com/blinksh/blink)
