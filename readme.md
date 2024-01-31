@@ -8,7 +8,7 @@
 </div> 
 
 - 🔭 I’m currently working on <b style="color:#95C077"><a href="#">Some OpenSource Projects</a></b>
-- 🌱 I’m currently learning <b style="color:#95C077"><a href="#">Angular</a></b>
+- 🌱 I’m currently learning <b style="color:#95C077"><a href="#">Design Patterns With C# </a></b>
 - 📝 Sometimes I write articles on <a style="color:#C678DD" href="https://hsayed21.github.io">hsayed21.github.io</a>
 
 <h3 style="color:#DBAA79; font-weight:bold">📫 <a href="#">How to reach me</a></h3>
