@@ -9,15 +9,9 @@ jobs:
   build:
     name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    
+
     steps:
       - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Update GitHub Activity Readme"
-          MAX_LINES: 10
-          COMMIT_NAME: GitHub Activity Readme
