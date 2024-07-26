@@ -70,20 +70,19 @@
   <a href="#"><img alt="hsayed21's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsayed21&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="180em"/></a></p>
 </details>
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
   <summary>
   <b style="color:#DBAA79;">⚡ <a href="#">Recent GitHub Activity</a></b>
   </summary>
   <br/>
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 1. ❗️ Opened issue [#95](https://github.com/evilC/AutoHotInterception/issues/95) in [evilC/AutoHotInterception](https://github.com/evilC/AutoHotInterception)
 2. ❗️ Opened issue [#2876](https://github.com/zotero/zotero/issues/2876) in [zotero/zotero](https://github.com/zotero/zotero)
 3. 🗣 Commented on [#1597](https://github.com/blinksh/blink/issues/1597) in [blinksh/blink](https://github.com/blinksh/blink)
 4. 🗣 Commented on [#1597](https://github.com/blinksh/blink/issues/1597) in [blinksh/blink](https://github.com/blinksh/blink)
 5. 🗣 Commented on [#1597](https://github.com/blinksh/blink/issues/1597) in [blinksh/blink](https://github.com/blinksh/blink)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="#"><img alt="hsayed21's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hsayed21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
