@@ -22,11 +22,11 @@
  <h3 style="color:#DBAA79; font-weight:bold">📕 <a href="#">Latest Blog Posts</a></h3>
 
 <!--START_SECTION:posts-->
+* [Angular Debugging In VS Code](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2024-07-26-angular-debugging-vs-code&#x2F;)
 * [pdf ocr arabic](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2022-10-04-pdf-ocr-arabic&#x2F;)
 * [Track resume with GTM + Heroku + Github + SendGrid [Part2]](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2021-11-21-track_resume_with_gtm_heroku_github_sendgrid_part2&#x2F;)
 * [Track resume with GTM + Heroku + Github + SendGrid [Part1]](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2021-11-09-track_resume_with_gtm_heroku_github_sendgrid_part1&#x2F;)
 * [Jekyll: Live Reload On Windows 10](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2021-11-01-jekyll-live-reload-on-windows-10&#x2F;)
-* [Integrate Obsidian With Github](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2021-08-21-integrate-obsidian-with-github&#x2F;)
 <!--END_SECTION:posts-->
 
 
