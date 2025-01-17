@@ -22,11 +22,11 @@
  <h3 style="color:#DBAA79; font-weight:bold">📕 <a href="#">Latest Blog Posts</a></h3>
 
 <!--START_SECTION:posts-->
+* [My Workflow: Seamlessly Syncing Obsidian to Hugo](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2025-01-17-my-workflow-syncing-obsidian-to-hugo&#x2F;)
 * [Using jsPDF with Arabic Text in Angular](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2025-01-15-jspdf-arabic-text&#x2F;)
 * [Angular Debugging In VS Code](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2024-07-26-angular-debugging-vs-code&#x2F;)
 * [PDF OCR Arabic](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2022-10-04-pdf-ocr-arabic&#x2F;)
 * [Personal Projects](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;projects&#x2F;)
-* [Track resume with GTM + Heroku + Github + SendGrid [Part2]](https:&#x2F;&#x2F;hsayed21.github.io&#x2F;posts&#x2F;2021-11-21-track_resume_with_gtm_heroku_github_sendgrid_part2&#x2F;)
 <!--END_SECTION:posts-->
 
 
