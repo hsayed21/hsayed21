@@ -3,8 +3,11 @@
 <!-- <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 <!-- <img style="width:600px; height:350px" src="https://i.imgur.com/ijdyxfE.gif" /> -->
 <img width="540" height="270" src="https://64.media.tumblr.com/b1785743b8742d255508773ce5bbc320/tumblr_pp1k8pBF6o1tf04pfo1_640.gif" />
-<h3>Olá 👋, I'm <a style="color:#72BEF2" href="https://hsayed21.github.io" target="_blank">Hamada Sayed</a> </h3>
-<h2 style="color:#D36770; font-weight:bold">
+<h3>
+ Olá 👋, I'm <a style="color:#72BEF2" href="https://hsayed21.github.io" target="_blank">Hamada Sayed</a> <br><br>
+ Full-Stack Developer | Cybersecurity Enthusiast
+</h3>
+<hr style="color:#D36770; font-weight:bold">
 </div> 
 
 - 🔭 I’m currently working on <b style="color:#95C077"><a href="#">Some OpenSource Projects</a></b>
